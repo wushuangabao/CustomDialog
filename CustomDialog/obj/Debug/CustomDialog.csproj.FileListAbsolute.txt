@@ -1,0 +1,13 @@
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\bin\Debug\CustomDialog.dll
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\bin\Debug\CustomDialog.pdb
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.csprojResolveAssemblyReference.cache
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.csproj.CoreCompileInputs.cache
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.dll
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.pdb
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\bin\Debug\DotNetARX.dll
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\bin\Debug\DotNetARX.pdb
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\bin\Debug\DotNetARX.xml
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.WomanPants.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.csproj.GenerateResource.Cache
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.Properties.Resources.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormKuoXing.resources
