@@ -228,5 +228,14 @@
   <ItemGroup>
     <None Include="Resources\长裤.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\前褶省1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\前褶省2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\前褶省3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -44,8 +44,20 @@ namespace CustomDialog
                     FormWaistPos f3 = new FormWaistPos();
                     addSubForm(f3);
                     break;
+                case 3:
+                    FormZheSangF f4 = new FormZheSangF();
+                    addSubForm(f4);
+                    break;
+
             }
 
+        }
+
+        private void FormNew_Load(object sender, EventArgs e)
+        {
+            FormKuoXing f1 = new FormKuoXing();
+            addSubForm(f1);
+            tabControl1.SelectedIndex = 0;
         }
     }
 }

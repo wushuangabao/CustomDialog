@@ -1,6 +1,5 @@
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\bin\Debug\CustomDialog.dll
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\bin\Debug\CustomDialog.pdb
-E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.csprojResolveAssemblyReference.cache
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.csproj.CoreCompileInputs.cache
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.dll
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.pdb
@@ -20,3 +19,4 @@ E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormWais
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormZheSangB.resources
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormZheSangF.resources
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormNew.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.csprojResolveAssemblyReference.cache
