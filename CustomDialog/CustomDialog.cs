@@ -45,6 +45,7 @@ namespace CustomDialog
 
     public class CustomDialog:IExtensionApplication
     {
+        [CommandMethod("createWomanPants")]
         public void womanPants()
         {
             FormNew form = new FormNew();
@@ -96,7 +97,7 @@ namespace CustomDialog
         {
             //create the panel source
             Autodesk.Windows.RibbonPanelSource ribSourcePanel = new RibbonPanelSource();
-            ribSourcePanel.Title = "Edit registry";
+            ribSourcePanel.Title = "廓形";
             //now the panel
             RibbonPanel ribPanel = new RibbonPanel();
             ribPanel.Source = ribSourcePanel;
@@ -104,14 +105,14 @@ namespace CustomDialog
 
             //create button 1
             Autodesk.Windows.RibbonButton ribButton1 = new RibbonButton();
-            ribButton1.Text = "Register me!";
+            ribButton1.Text = "H型";
             ribButton1.CommandParameter = "REGISTERME ";
             ribButton1.ShowText = true;
             ribButton1.CommandHandler = new AdskCommandHandler();
 
             //now create button 2
             Autodesk.Windows.RibbonButton ribButton2 = new RibbonButton();
-            ribButton2.Text = "Unregister me!";
+            ribButton2.Text = "Y型";
             ribButton2.CommandParameter = "UNREGISTERME ";
             ribButton2.ShowText = true;
             ribButton2.CommandHandler = new AdskCommandHandler();
@@ -136,7 +137,7 @@ namespace CustomDialog
             ribSourcePanel.Items.Add(ribExpPanel);//needs to be here
 
             Autodesk.Windows.RibbonButton ribExpButton1 = new RibbonButton();
-            ribExpButton1.Text = "On expanded panel";
+            ribExpButton1.Text = "A型";
             ribExpButton1.ShowText = true;
             ribExpButton1.CommandParameter = "LINE ";
             ribExpButton1.CommandHandler = new AdskCommandHandler();
@@ -151,7 +152,7 @@ namespace CustomDialog
         {
             //create the panel source
             Autodesk.Windows.RibbonPanelSource ribSourcePanel = new RibbonPanelSource();
-            ribSourcePanel.Title = "Controls";
+            ribSourcePanel.Title = "裤长";
             //now the panel
             RibbonPanel ribPanel = new RibbonPanel();
             ribPanel.Source = ribSourcePanel;
@@ -167,12 +168,12 @@ namespace CustomDialog
             //create a Ribbon List Button
             Autodesk.Windows.RibbonSplitButton ribListBtn = new RibbonSplitButton();
             Autodesk.Windows.RibbonButton ribButton1 = new RibbonButton();
-            ribButton1.Text = "Call LINE command";
+            ribButton1.Text = "长裤";
             ribButton1.ShowText = true;
             ribButton1.CommandParameter = "LINE ";
             ribButton1.CommandHandler = new AdskCommandHandler();
             Autodesk.Windows.RibbonButton ribButton2 = new RibbonButton();
-            ribButton2.Text = "Call CIRCLE command";
+            ribButton2.Text = "九分裤";
             ribButton2.ShowText = true;
             ribButton2.CommandParameter = "CIRCLE ";
             ribButton2.CommandHandler = new AdskCommandHandler();

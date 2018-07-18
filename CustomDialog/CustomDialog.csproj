@@ -101,18 +101,6 @@
     <Compile Include="FormPocketF.Designer.cs">
       <DependentUpon>FormPocketF.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormStormFlap.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormStormFlap.Designer.cs">
-      <DependentUpon>FormStormFlap.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormWaistband.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormWaistband.Designer.cs">
-      <DependentUpon>FormWaistband.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormWaistPos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -137,12 +125,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="WomanPants.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="WomanPants.Designer.cs">
-      <DependentUpon>WomanPants.cs</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="FormFoot.resx">
@@ -160,12 +142,6 @@
     <EmbeddedResource Include="FormPocketF.resx">
       <DependentUpon>FormPocketF.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormStormFlap.resx">
-      <DependentUpon>FormStormFlap.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormWaistband.resx">
-      <DependentUpon>FormWaistband.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormWaistPos.resx">
       <DependentUpon>FormWaistPos.cs</DependentUpon>
     </EmbeddedResource>
@@ -178,9 +154,6 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="WomanPants.resx">
-      <DependentUpon>WomanPants.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -223,9 +196,6 @@
     <None Include="Resources\LOGO.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\无翻边.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\长裤.png" />
   </ItemGroup>
   <ItemGroup>
@@ -236,6 +206,75 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\前褶省3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\侧拉链.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\挂钩1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\挂钩2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\明扣.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\橡筋-后.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\橡筋-全.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\装饰扣1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\装饰扣2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\装饰扣3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\装饰扣4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\单省.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\双省.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\缩褶.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无省.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\平插袋-圆角.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\平插袋-圆角-硬币袋.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\平插袋-折角.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\斜插袋.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\直插袋.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\低腰.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\高腰.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无腰.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\中腰.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

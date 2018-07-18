@@ -123,6 +123,16 @@ namespace CustomDialog.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 中腰 {
+            get {
+                object obj = ResourceManager.GetObject("中腰", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 九分裤 {
             get {
                 object obj = ResourceManager.GetObject("九分裤", resourceCulture);
@@ -136,6 +146,26 @@ namespace CustomDialog.Properties {
         internal static System.Drawing.Bitmap 五分裤 {
             get {
                 object obj = ResourceManager.GetObject("五分裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 低腰 {
+            get {
+                object obj = ResourceManager.GetObject("低腰", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 侧拉链 {
+            get {
+                object obj = ResourceManager.GetObject("侧拉链", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +213,129 @@ namespace CustomDialog.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 无翻边 {
+        internal static System.Drawing.Bitmap 单省 {
             get {
-                object obj = ResourceManager.GetObject("无翻边", resourceCulture);
+                object obj = ResourceManager.GetObject("单省", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 双省 {
+            get {
+                object obj = ResourceManager.GetObject("双省", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 平插袋_圆角 {
+            get {
+                object obj = ResourceManager.GetObject("平插袋_圆角", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 平插袋_圆角_硬币袋 {
+            get {
+                object obj = ResourceManager.GetObject("平插袋_圆角_硬币袋", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 平插袋_折角 {
+            get {
+                object obj = ResourceManager.GetObject("平插袋_折角", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 挂钩1 {
+            get {
+                object obj = ResourceManager.GetObject("挂钩1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 挂钩2 {
+            get {
+                object obj = ResourceManager.GetObject("挂钩2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 斜插袋 {
+            get {
+                object obj = ResourceManager.GetObject("斜插袋", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 无省 {
+            get {
+                object obj = ResourceManager.GetObject("无省", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 无腰 {
+            get {
+                object obj = ResourceManager.GetObject("无腰", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 明扣 {
+            get {
+                object obj = ResourceManager.GetObject("明扣", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 橡筋_全 {
+            get {
+                object obj = ResourceManager.GetObject("橡筋_全", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 橡筋_后 {
+            get {
+                object obj = ResourceManager.GetObject("橡筋_后", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -206,6 +356,66 @@ namespace CustomDialog.Properties {
         internal static System.Drawing.Bitmap 百慕大短裤 {
             get {
                 object obj = ResourceManager.GetObject("百慕大短裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 直插袋 {
+            get {
+                object obj = ResourceManager.GetObject("直插袋", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 缩褶 {
+            get {
+                object obj = ResourceManager.GetObject("缩褶", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 装饰扣1 {
+            get {
+                object obj = ResourceManager.GetObject("装饰扣1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 装饰扣2 {
+            get {
+                object obj = ResourceManager.GetObject("装饰扣2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 装饰扣3 {
+            get {
+                object obj = ResourceManager.GetObject("装饰扣3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 装饰扣4 {
+            get {
+                object obj = ResourceManager.GetObject("装饰扣4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -236,6 +446,16 @@ namespace CustomDialog.Properties {
         internal static System.Drawing.Bitmap 长裤 {
             get {
                 object obj = ResourceManager.GetObject("长裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 高腰 {
+            get {
+                object obj = ResourceManager.GetObject("高腰", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

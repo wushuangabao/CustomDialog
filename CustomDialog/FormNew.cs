@@ -48,7 +48,18 @@ namespace CustomDialog
                     FormZheSangF f4 = new FormZheSangF();
                     addSubForm(f4);
                     break;
-
+                case 4:
+                    FormZheSangB f5 = new FormZheSangB();
+                    addSubForm(f5);
+                    break;
+                case 5:
+                    FormPocketB f6 = new FormPocketB();
+                    addSubForm(f6);
+                    break;
+                case 6:
+                    FormPocketB f7 = new FormPocketB();
+                    addSubForm(f7);
+                    break;
             }
 
         }

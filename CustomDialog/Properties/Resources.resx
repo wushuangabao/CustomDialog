@@ -160,9 +160,6 @@
   <data name="八分裤" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\八分裤.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="无翻边" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\无翻边.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="前褶省1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\前褶省1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -171,5 +168,74 @@
   </data>
   <data name="前褶省3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\前褶省3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="中腰" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\中腰.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="低腰" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\低腰.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="侧拉链" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\侧拉链.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="单省" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\单省.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="双省" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\双省.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="平插袋_圆角" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\平插袋-圆角.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="平插袋_圆角_硬币袋" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\平插袋-圆角-硬币袋.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="平插袋_折角" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\平插袋-折角.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="挂钩1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\挂钩1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="挂钩2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\挂钩2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="斜插袋" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\斜插袋.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="无省" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\无省.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="无腰" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\无腰.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="明扣" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\明扣.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="橡筋_全" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\橡筋-全.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="橡筋_后" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\橡筋-后.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="直插袋" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\直插袋.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="缩褶" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\缩褶.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="装饰扣1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\装饰扣1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="装饰扣2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\装饰扣2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="装饰扣3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\装饰扣3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="装饰扣4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\装饰扣4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="高腰" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\高腰.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
