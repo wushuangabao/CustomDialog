@@ -83,9 +83,9 @@ namespace CustomDialog.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap lancy_LOGO {
+        internal static System.Drawing.Bitmap LOGO {
             get {
-                object obj = ResourceManager.GetObject("lancy LOGO", resourceCulture);
+                object obj = ResourceManager.GetObject("LOGO", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,89 @@ namespace CustomDialog.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 七分裤 {
+            get {
+                object obj = ResourceManager.GetObject("七分裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 九分裤 {
+            get {
+                object obj = ResourceManager.GetObject("九分裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 五分裤 {
+            get {
+                object obj = ResourceManager.GetObject("五分裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 八分裤 {
+            get {
+                object obj = ResourceManager.GetObject("八分裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 牙买加短裤 {
+            get {
+                object obj = ResourceManager.GetObject("牙买加短裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 百慕大短裤 {
+            get {
+                object obj = ResourceManager.GetObject("百慕大短裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 裙裤 {
             get {
                 object obj = ResourceManager.GetObject("裙裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 超短裤 {
+            get {
+                object obj = ResourceManager.GetObject("超短裤", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 长裤 {
+            get {
+                object obj = ResourceManager.GetObject("长裤", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

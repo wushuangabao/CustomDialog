@@ -11,3 +11,12 @@ E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.WomanPan
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.csproj.GenerateResource.Cache
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.Properties.Resources.resources
 E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormKuoXing.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormFoot.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormWaistband.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormPocketB.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormPocketF.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormStormFlap.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormWaistPos.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormZheSangB.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormZheSangF.resources
+E:\MyCodes\Csharp\Test\CustomDialog\CustomDialog\obj\Debug\CustomDialog.FormNew.resources

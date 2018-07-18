@@ -47,8 +47,9 @@ namespace CustomDialog
     {
         public void womanPants()
         {
-            WomanPants form = new WomanPants();
-            Application.ShowModalDialog(form);
+            FormNew form = new FormNew();
+            //WomanPants form = new WomanPants();
+            AcadApp.ShowModalDialog(form);
         }
 
         public void Initialize()
